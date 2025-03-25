@@ -3,6 +3,8 @@
 > A simple web UI built in Gradio for image/video robust watermarking with Meta's VideoSeal model.
 
 [![license](https://img.shields.io/github/license/nhn/tui.editor.svg)](https://github.com/nhn/tui.editor/blob/master/LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AG63gmGQdI9vwbuvwonjsb1R85jc5b_1?usp=sharing)
+
 
 ## 🚀 How to use
 
