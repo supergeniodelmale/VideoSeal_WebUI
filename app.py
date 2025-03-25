@@ -42,7 +42,7 @@ def embed_watermark_image(image, number):
   # Convert back to PIL Image for saving.
   img_w_pil = to_pil_image(img_w.squeeze().cpu())
 
-  save_path = img_path.split(".")[0] + "_wm.jpg"
+  save_path = "output_wm.jpg"
   img_w_pil.save(save_path, "JPEG", quality=100)
 
   return save_path
