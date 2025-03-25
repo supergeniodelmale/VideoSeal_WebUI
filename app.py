@@ -243,4 +243,4 @@ def create_demo():
     return demo
 
 demo = create_demo()
-demo.launch(show_error=True)
+demo.launch(share=True)
